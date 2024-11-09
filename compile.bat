@@ -1,1 +1,0 @@
-g++ -o main.exe main.cpp -I D:/SDL/include -I D:/SDL2_image/include -L D:/SDL/lib -L D:/SDL2_image/lib -lSDL2 -lSDL2_image
